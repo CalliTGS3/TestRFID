@@ -1,0 +1,25 @@
+{
+    "name": "NFC1",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "pxt-mfrc522": "github:callitgs3/pxt-rfid-mfrc522#aa0900bb3801a864be4b5696602dcfdc813c03cc"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.29",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
