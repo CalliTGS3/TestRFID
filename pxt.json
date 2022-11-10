@@ -1,9 +1,9 @@
 {
-    "name": "NFC1",
+    "name": "TestRFIDExtension",
     "description": "",
     "dependencies": {
         "core": "*",
-        "pxt-mfrc522": "github:callitgs3/pxt-rfid-mfrc522#aa0900bb3801a864be4b5696602dcfdc813c03cc"
+        "pxt-mfrc522": "github:callitgs3/pxt-rfid-mfrc522#8bab372996e571f2e479e79bbb75fc5bf9b10976"
     },
     "files": [
         "main.blocks",
